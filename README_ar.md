@@ -48,15 +48,15 @@
 
 <div align="center">
 <div>
-  <img src="path/images/screenshots/ar/atad-screen1.jpg" width="25%" alt="تطبيق عتاد" />
-  <img src="path/images/screenshots/ar/atad-screen2.jpg" width="25%" alt="تطبيق عتاد" />
-  <img src="path/images/screenshots/ar/atad-screen3.jpg" width="25%" alt="تطبيق عتاد" />
-  <img src="path/images/screenshots/ar/atad-screen4.jpg" width="25%" alt="تطبيق عتاد" />
-  <img src="path/images/screenshots/ar/atad-screen5.jpg" width="25%" alt="تطبيق عتاد" />
-  <img src="path/images/screenshots/ar/atad-screen6.jpg" width="25%" alt="تطبيق عتاد" />
-  <img src="path/images/screenshots/ar/atad-screen7.jpg" width="25%" alt="تطبيق عتاد" />
-  <img src="path/images/screenshots/ar/atad-screen8.jpg" width="25%" alt="تطبيق عتاد" />
-  <img src="path/images/screenshots/ar/atad-screen9.jpg" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen1.webp" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen2.webp" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen3.webp" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen4.webp" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen5.webp" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen6.webp" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen7.webp" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen8.webp" width="25%" alt="تطبيق عتاد" />
+  <img src="path/images/screenshots/ar/atad-screen9.webp" width="25%" alt="تطبيق عتاد" />
 </div>
 </div>
 
