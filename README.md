@@ -48,15 +48,15 @@ English
 
 <div align="center">
 <div>
-  <img src="path/images/screenshots/ar/atad-screen1.webp" width="25%" alt="Atad App" />
-  <img src="path/images/screenshots/ar/atad-screen2.webp" width="25%" alt="Atad App" />
-  <img src="path/images/screenshots/ar/atad-screen3.webp" width="25%" alt="Atad App" />
-  <img src="path/images/screenshots/ar/atad-screen4.webp" width="25%" alt="Atad App" />
-  <img src="path/images/screenshots/ar/atad-screen5.webp" width="25%" alt="Atad App" />
-  <img src="path/images/screenshots/ar/atad-screen6.webp" width="25%" alt="Atad App" />
-  <img src="path/images/screenshots/ar/atad-screen7.webp" width="25%" alt="Atad App" />
-  <img src="path/images/screenshots/ar/atad-screen8.webp" width="25%" alt="Atad App" />
-  <img src="path/images/screenshots/ar/atad-screen9.webp" width="25%" alt="Atad App" />
+  <img src="path/images/screenshots/ar/atad-screen1.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
+  <img src="path/images/screenshots/ar/atad-screen2.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
+  <img src="path/images/screenshots/ar/atad-screen3.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
+  <img src="path/images/screenshots/ar/atad-screen4.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
+  <img src="path/images/screenshots/ar/atad-screen5.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
+  <img src="path/images/screenshots/ar/atad-screen6.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
+  <img src="path/images/screenshots/ar/atad-screen7.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
+  <img src="path/images/screenshots/ar/atad-screen8.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
+  <img src="path/images/screenshots/ar/atad-screen9.webp" width="25%" alt="Atad App" />&nbsp;&nbsp;
 </div>
 </div>
 
