@@ -15,6 +15,7 @@
 <br>
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/you0ssef/Atad?color=red&label=Latest&logo=github)](https://github.com/you0ssef/Atad/releases/latest/)
+[![Downloads](https://img.shields.io/github/downloads/you0ssef/Atad/total?style=flat-square)](https://github.com/you0ssef/Atad/releases) 
 [![Website](https://img.shields.io/badge/Website-vibrant?style=flat&logo=google-chrome&logoColor=white&color=007acc)](https://atadapp.pages.dev)
 
 <a href='https://atad.ar.uptodown.com/android' title='تحميل Atad'><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='تحميل Atad'></a>
